@@ -1,0 +1,1 @@
+Uma empresa deseja avaliar quantos vendedores alcançaram a meta de vendas, além de exibir a quantidade de vendas realizadas e o valor atingido por cada vendedor. Para isso, você precisará criar um programa que detecta essas informações.
